@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Mathematics and Its History",
+        "author(s)": "John Stillwell",
+        "year_of_publication": "2010",
+        "isbn": "9781441960535",
+        "number of copies": "..."
+    },
+    {
+        "id": 2,
+        "title": "Complex Variables and Applications",
+        "author(s)": "James Brown, Ruel Churchill",
+        "year_of_publication": "1974",
+        "isbn": "978-0073383170",
+        "number of copies": "..."
+    },
+    {
+        "id": 3,
+        "title": "A Mathematical Introduction To Logic",
+        "author(s)": "Herbert Enderton",
+        "year_of_publication": "2001",
+        "isbn": "9780122384523",
+        "number of copies": "..."
+    }
+    
+]
