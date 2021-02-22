@@ -1,0 +1,4 @@
+# BIRDAPI
+
+```npm install nodemon```
+
